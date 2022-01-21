@@ -24,9 +24,13 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/vscode.svg" />][vscode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/python.svg" />][python]
+[<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/julialang.svg" />][julia]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/r-project.svg" />][R]
+[<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/matlab.svg" />][matlab]
+[<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/latex.svg" />][latex]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/git.svg" />][git]
+[<img align="left" alt="shell" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/terminal.svg" />][shell]
 
 <br />
 <br />
@@ -38,4 +42,11 @@
 [linkedin]: https://www.linkedin.com/in/yanni-papandreou/
 [email]: mailto:john.papandreou18@imperial.ac.uk
 [vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/
+[julia]: https://julialang.org/
+[R]: https://www.r-project.org/about.html
+[matlab]: https://uk.mathworks.com/products/matlab.html
+[latex]: https://www.latex-project.org/
+[git]: https://git-scm.com/
+[shell]: https://fishshell.com/
 
