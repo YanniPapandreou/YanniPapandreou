@@ -7,7 +7,7 @@
 
 - 🎓 I'm a third year PhD student in Statistics at [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics
-- 🌱 I’m currently learning more about Differential Geometry 🌐
+- 🌱 I’m currently learning about Differential Geometry 🌐
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
