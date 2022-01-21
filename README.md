@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="YanniPapandreou.github.io" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/website.svg" />][website]
-[<img align="left" alt="YanniPapandreou | LinkedIn" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="YanniPapandreou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="YanniPapandreou | email" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/email.svg" />][email]
 
 <br />
