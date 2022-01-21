@@ -18,8 +18,6 @@
 <!-- [<img align="left" alt="YanniPapandreou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="YanniPapandreou | email" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/email.svg" />][email]
 
----
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/vscode.svg" />][vscode]
@@ -28,11 +26,9 @@
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/r-project.svg" />][R]
 [<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/matlab.svg" />][matlab]
 
----
 
 <img align="left" alt="YanniPapandreou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&hide_border=true" />
 
----
 
 [uni]: https://www.imperial.ac.uk/
 [website]: https://yannipapandreou.github.io/
