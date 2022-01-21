@@ -28,9 +28,9 @@
 [<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/julialang.svg" />][julia]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/r-project.svg" />][R]
 [<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/matlab.svg" />][matlab]
-[<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/latex.svg" />][latex]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/git.svg" />][git]
-[<img align="left" alt="shell" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/terminal.svg" />][shell]
+<!-- [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/latex.svg" />][latex] -->
+<!-- [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/git.svg" />][git] -->
+<!-- [<img align="left" alt="shell" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/terminal.svg" />][shell] -->
 
 <br />
 <br />
