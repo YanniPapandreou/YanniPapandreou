@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning more about Differential Geometry 🌐
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
----
+--
 
 ### Connect with me:
 
