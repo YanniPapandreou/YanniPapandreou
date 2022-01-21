@@ -18,8 +18,7 @@
 <!-- [<img align="left" alt="YanniPapandreou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="YanniPapandreou | email" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/email.svg" />][email]
 
-
-<br />
+---
 
 ### Languages and Tools:
 
