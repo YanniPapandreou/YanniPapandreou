@@ -8,7 +8,7 @@
 - 🎓 I'm a third year PhD student in Statistics at [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics
 - 🌱 I’m currently learning more about Differential Geometry 🌐
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="YanniPapandreou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&hide_border=true" />
+<img align="left" alt="YanniPapandreou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dracula" />
 
 
 [uni]: https://www.imperial.ac.uk/
