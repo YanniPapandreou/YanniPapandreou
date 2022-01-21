@@ -20,6 +20,8 @@
 <!-- [<img align="left" alt="YanniPapandreou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="YanniPapandreou | email" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/email.svg" />][email]
 
+<br />
+
 ---
 
 ### Languages and Tools:
@@ -29,6 +31,8 @@
 [<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/julialang.svg" />][julia]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/r-project.svg" />][R]
 [<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/matlab.svg" />][matlab]
+
+<br />
 
 ---
 
