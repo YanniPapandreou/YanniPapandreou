@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning more about Differential Geometry 🌐
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="YanniPapandreou.github.io" width="22px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/website.svg" />][website]
