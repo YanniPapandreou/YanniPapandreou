@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="YanniPapandreou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dracula" />
+<img align="left" alt="YanniPapandreou's GitHub Stats" src="https://github-readme-stats-yannipapandreou.vercel.app/api?username=YanniPapandreou&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dracula" />
 
 
 [uni]: https://www.imperial.ac.uk/
