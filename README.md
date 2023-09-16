@@ -7,7 +7,7 @@
 
 ## I'm a Statistician
 
-- 󰦑  I am a Quantitative Researcher at [Bayforest Technologies][work]
+- I am a Quantitative Researcher at [Bayforest Technologies][work]
 - 🎓 I recently passed the viva for my PhD in Statistics at [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics, Nix
 
@@ -30,8 +30,6 @@
 [<img align="left" alt="Nix" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/nix.svg" />][nix]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/r-project.svg" />][R]
 [<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/matlab.svg" />][matlab]
-[<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/neovim.svg" />][neovim]
-[<img align="left" alt="Helix" width="26px" src="https://raw.githubusercontent.com/YanniPapandreou/YanniPapandreou/main/images/helix.svg" />][helix]
 
 <br />
 
@@ -54,6 +52,3 @@
 [git]: https://git-scm.com/
 [shell]: https://fishshell.com/
 [nix]: https://nixos.org/
-[neovim]: https://neovim.io/
-[helix]: https://helix-editor.com/
-
