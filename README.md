@@ -5,8 +5,6 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Statistician
-
 - I am a Quantitative Researcher at [Bayforest Technologies][work]
 - 🎓 I recently passed the viva for my PhD in Statistics at [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics, Nix
@@ -35,8 +33,7 @@
 
 ---
 
-<img align="left" alt="YanniPapandreou's GitHub Stats" src="https://github-readme-stats-yannipapandreou.vercel.app/api?username=YanniPapandreou&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dracula" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanniPapandreou)](https://github.com/anuraghazra/github-readme-stats)
 
 [uni]: https://www.imperial.ac.uk/
 [work]: https://bayforest.ai/
