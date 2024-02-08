@@ -33,7 +33,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&theme=dracula&hide_rank=true)
 
 [uni]: https://www.imperial.ac.uk/
 [work]: https://bayforest.ai/
