@@ -39,7 +39,7 @@
 [work]: https://bayforest.ai/
 [website]: https://yannipapandreou.github.io/
 [linkedin]: https://www.linkedin.com/in/yanni-papandreou/
-[email]: mailto:john.papandreou18@imperial.ac.uk
+[email]: mailto:ypapandreou7@gmail.com
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
 [julia]: https://julialang.org/
