@@ -5,8 +5,8 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-- I am a Quantitative Researcher at [Bayforest Technologies][work]
-- 🎓 I recently passed the viva for my PhD in Statistics at [Imperial College London][uni]
+- I am a Climate Hazard Modeller at [Moody's RMS][work]
+- 🎓 I hold PhD in Statistics from [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics, Nix
 
 ---
@@ -36,7 +36,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanniPapandreou&show_icons=true&theme=dracula&hide_rank=true)
 
 [uni]: https://www.imperial.ac.uk/
-[work]: https://bayforest.ai/
+[work]: https://www.rms.com/
 [website]: https://yannipapandreou.github.io/
 [linkedin]: https://www.linkedin.com/in/yanni-papandreou/
 [email]: mailto:ypapandreou7@gmail.com
