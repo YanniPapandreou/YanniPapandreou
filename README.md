@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 - I am a Climate Hazard Modeller at [Moody's RMS][work]
-- 🎓 I hold PhD in Statistics from [Imperial College London][uni]
+- 🎓 I a hold PhD in Statistics from [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics, Nix
 
 ---
