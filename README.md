@@ -8,6 +8,7 @@
 - I am a Climate Hazard Modeller at [Moody's RMS][work]
 - 🎓 I a hold PhD in Statistics from [Imperial College London][uni]
 - 📜 Research interests: Physics-informed Machine learning, Kernel-based methods, Bayesian statistics, Nix
+- My personal website/blog can be found [here](https://yannipapandreou.github.io/)
 
 ---
 
